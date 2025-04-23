@@ -14,7 +14,7 @@ Write a method that will take an int[] as input and produce an IEnumerable<int> 
 that meets all three of the conditions above using only procedural code if staments, switches and loops. Hint:
 the static Array.Sort method might be a usefull tool here.
 
-Write a method that takes an int[] as input and produces an IEnumerable<int> that meets the three abouve conditions using a keyword-based query expression
+Write a method that takes an int[] as input and produces an IEnumerable<int> that meets the three above conditions using a keyword-based query expression
 (from x, where x, select x).
 
 Write a method that will take an int[] as input and produce an IEnumerable<int> that meets the three above conditions using a method call based query expression.
