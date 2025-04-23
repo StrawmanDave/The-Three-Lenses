@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeLenses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685dea5fbd55b8ebf6cf871cccafdd9be5cb54ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a165b10821a5cee9f0bcb3ad844b9b99f07ca3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeLenses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeLenses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

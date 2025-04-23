@@ -11,11 +11,12 @@ The doubling step should result in 4,8,12,16.
 
 Objectives: 
 Write a method that will take an int[] as input and produce an IEnumerable<int> (it could be a list or array if you want)
-that meets all three of the conditions above usint only procedural code if staments, switches and loops. Hint:
+that meets all three of the conditions above using only procedural code if staments, switches and loops. Hint:
 the static Array.Sort method might be a usefull tool here.
 
 Write a method that takes an int[] as input and produces an IEnumerable<int> that meets the three abouve conditions using a keyword-based query expression
 (from x, where x, select x).
+
 Write a method that will take an int[] as input and produce an IEnumerable<int> that meets the three above conditions using a method call based query expression.
 (x.Select(n => n + 1)), x.Where(n => n < 0).
 
