@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\bin\Debug\net9.0\ThreeLenses.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\bin\Debug\net9.0\ThreeLenses.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\bin\Debug\net9.0\ThreeLenses.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\refint\ThreeLenses.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ThreeLenses.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Three-Lenses\ThreeLenses\obj\Debug\net9.0\ref\ThreeLenses.dll
